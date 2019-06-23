@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.9.0">
+    <CLASSES>
+      <root url="jar://D:/Java/Java Tips/Convert JSON string to Map – Jackson/jar_files/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://D:/Java/Java Tips/Convert JSON string to Map – Jackson/jar_files/jackson-core-2.9.5.jar!/" />
+      <root url="jar://D:/Java/Java Tips/Convert JSON string to Map – Jackson/jar_files/jackson-databind-2.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
